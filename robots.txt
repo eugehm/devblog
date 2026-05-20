@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eugehm.github.io/portfolio/sitemap.xml
+Sitemap: https://eugehm.github.io/devblog/sitemap.xml
